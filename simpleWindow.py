@@ -30,7 +30,6 @@ class Window(QMainWindow):  #create class
         #self.new_text.move(100, 50)
         #self.new_text.adjustSize()
         print('dgf')
-        print('ff')
 
 def application():
     app = QApplication(sys.argv)
